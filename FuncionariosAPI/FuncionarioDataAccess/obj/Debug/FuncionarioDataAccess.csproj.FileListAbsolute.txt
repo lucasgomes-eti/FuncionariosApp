@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Debug\FuncionarioDataAccess.dll.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Debug\FuncionarioDataAccess.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Debug\FuncionarioDataAccess.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\obj\Debug\FuncionarioDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\obj\Debug\FuncionarioDataAccess.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\obj\Debug\FuncionarioDataAccess.pdb

@@ -1,0 +1,10 @@
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Release\FuncionarioDataAccess.dll.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Release\FuncionarioDataAccess.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Release\FuncionarioDataAccess.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Release\EntityFramework.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Release\EntityFramework.xml
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\obj\Release\FuncionarioDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\obj\Release\FuncionarioDataAccess.dll
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\FuncionariosAPI\FuncionarioDataAccess\obj\Release\FuncionarioDataAccess.pdb

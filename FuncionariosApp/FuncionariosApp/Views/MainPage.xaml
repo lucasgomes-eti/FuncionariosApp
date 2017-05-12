@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FuncionariosApp"
+             Title="Funcionários"
+             x:Class="FuncionariosApp.MainPage">
+  <ContentPage.ToolbarItems>
+    <ToolbarItem Name="Adicionar" Icon="ic_plus_white_24dp.png" Activated="OnAdicionarClicked" />
+  </ContentPage.ToolbarItems>
+  <StackLayout>
+    <ListView x:Name="lstFuncionarios" ItemsSource="{Binding}" IsPullToRefreshEnabled="True" Refreshing="OnRefreshing" ItemSelected="OnItemSelected">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <TextCell Text="{Binding NomeCompleto}" Detail="{Binding Genero}">
+            <TextCell.ContextActions>
+              <MenuItem Text="Mais" Clicked="OnMaisCliked" CommandParameter="{Binding .}" />
+              <MenuItem Text="Excluir" Clicked="OnExcluirClicked" IsDestructive="True" CommandParameter="{Binding .}" />
+            </TextCell.ContextActions>
+          </TextCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>
